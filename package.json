@@ -8,9 +8,20 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "lite": "lite-server"
   },
-  "author": "",
+  "author": "Srinivas Polimera",
   "license": "ISC",
-    "devDependencies": {
+  "devDependencies": {
     "lite-server": "^2.2.2"
-  }
+  },
+  "dependencies": {
+    "bootstrap": "^4.0.0-alpha.6"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/srinivas013/conFusion.git"
+  },
+  "bugs": {
+    "url": "https://github.com/srinivas013/conFusion/issues"
+  },
+  "homepage": "https://github.com/srinivas013/conFusion#readme"
 }
